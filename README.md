@@ -8,7 +8,7 @@ The audit was used to determine the following:
 - Total number of votes each candidate won
 - The percentage of votes each candidate won
 - The voter turnout for each county
-- -The county with the highest turnour
+- The county with the highest turnout
 - The winner of the election based on popular vote
 
 ## Resources
